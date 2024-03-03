@@ -12,7 +12,7 @@
     &mt {
         tapping-term-ms = <130>;
         flavor = "hold-preferred";
-        hold-while-undecided = <1>;
+        hold-while-undecided;
         };
     &lt {
         tapping-term-ms = <130>;
